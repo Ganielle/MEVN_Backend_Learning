@@ -1,0 +1,8 @@
+npm install express body-parse mongoose cors --save
+
+npm add -D nodemon
+
+package.json
+"scripts": {
+	"start": "nodemon app.js
+}
